@@ -1,9 +1,9 @@
-import { useEffect } from "react";
+
 import AuthService from "../services/AuthService";
 import { useNavigate, Outlet, Link } from "react-router-dom";
 
 const NavBarAdmin = () => {
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
   const currentUser = AuthService.getCurrentUser();
 
   const style = {
