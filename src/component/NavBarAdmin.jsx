@@ -1,6 +1,6 @@
 
 import AuthService from "../services/AuthService";
-import { useNavigate, Outlet, Link } from "react-router-dom";
+import { Outlet, Link } from "react-router-dom";
 
 const NavBarAdmin = () => {
   // const navigate = useNavigate();
