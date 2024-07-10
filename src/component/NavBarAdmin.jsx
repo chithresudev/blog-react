@@ -24,7 +24,7 @@ const NavBarAdmin = () => {
         <nav className="navbar navbar-expand-lg bg-light">
           <div className="container-fluid">
             <a className="navbar-brand" href="/">
-              Blog admin-portal
+              Blog admin-portal login
             </a>
             <button
               className="navbar-toggler"
