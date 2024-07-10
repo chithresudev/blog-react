@@ -3,9 +3,7 @@ import AuthService from "../services/AuthService";
 import { Outlet, Link } from "react-router-dom";
 
 const NavBarAdmin = () => {
-  // const navigate = useNavigate();
   const currentUser = AuthService.getCurrentUser();
-
   const style = {
     aside: {
       backgroundColor: "#f1f1f1",
@@ -14,7 +12,6 @@ const NavBarAdmin = () => {
       position: "absolute",
     },
   };
-
   // useEffect(() => {
   //   if (!currentUser?.token) {
   //     navigate("/admin");
