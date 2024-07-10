@@ -15,11 +15,11 @@ const NavBarAdmin = () => {
     },
   };
 
-  useEffect(() => {
-    if (!currentUser?.token) {
-      navigate("/admin");
-    }
-  }, []);
+  // useEffect(() => {
+  //   if (!currentUser?.token) {
+  //     navigate("/admin");
+  //   }
+  // }, []);
 
   return (
     <>
