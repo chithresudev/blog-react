@@ -5,7 +5,7 @@ export default function AboutUs() {
         <div className="card-body p-0">
           <div className="row">
             <div className="col-md-4">
-              <img
+              <img alt=""
                 src="https://st2.depositphotos.com/3591429/10464/i/450/depositphotos_104648666-stock-photo-group-of-people-brainstorming-on.jpg"
                 width="100%"
               />
