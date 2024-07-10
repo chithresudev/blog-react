@@ -10,7 +10,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Home from "./pages/Home";
 import Dashboard from "./admin_portal/Dashboard";
-import AuthService from "./services/AuthService";
 import NavBarAdmin from "./component/NavBarAdmin";
 import CreatePost from "./admin_portal/CreatePost";
 import { AllPost } from "./admin_portal/AllPost";
