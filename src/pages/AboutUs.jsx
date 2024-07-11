@@ -12,7 +12,7 @@ export default function AboutUs() {
             </div>
             <div className="col-md-8">
               <div className="py-3 pe-3">
-                <h3>About Us</h3>
+                <h3>About Us Ansible</h3>
                 <p>
                   React is a JavaScript library for building user interfaces.
                   React is used to build single-page applications. React allows
