@@ -2,7 +2,7 @@ const ContactUs = () => {
   return (
     <div className="row">
       <div className="col">
-        <address>Solinganallur</address>
+        <address>Chennai, Tech metaz campus</address>
       </div>
       <div className="col">
         <div class="form-floating mb-3">
